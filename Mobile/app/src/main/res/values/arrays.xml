@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="villes">
+        <item>CasaBlanca</item>
+        <item>Rabat</item>
+        <item>Tanger</item>
+        <item>Fes</item>
+        <item>Asila</item>
+    </string-array>
+</resources>
